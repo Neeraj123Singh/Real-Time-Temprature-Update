@@ -22,7 +22,7 @@ real-time-temp-monitor/
 ## 📦 Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/real-time-temp-monitor.git
+git clone https://github.com/Neeraj123Singh/Real-Time-Temprature-Update
 cd real-time-temp-monitor
 ```
 
